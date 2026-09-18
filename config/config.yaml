@@ -1,0 +1,18 @@
+log_sources:
+  auth_log: "logs/sample_auth.log"
+  firewall_log: "logs/sample_firewall.log"
+
+enrichment:
+  abuseipdb_api_key: ""
+  virustotal_api_key: ""
+  cache_path: "enrichment/cache.json"
+
+detection:
+  brute_force_threshold: 5
+  brute_force_window_seconds: 60
+  port_scan_threshold: 15
+  port_scan_window_seconds: 30
+
+alerts:
+  output_path: "alerts/alerts.json"
+

@@ -1,0 +1,10 @@
+brute_force:
+  enabled: true
+  threshold: 5
+  window_seconds: 60
+  event_action: login_failed
+
+port_scan:
+  enabled: true
+  threshold: 15
+  window_seconds: 30
