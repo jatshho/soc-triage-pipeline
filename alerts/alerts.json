@@ -4,7 +4,7 @@
     "src_ip": "203.0.113.55",
     "count": 25,
     "window_seconds": 60,
-    "last_seen": "Sep 18 10:35:48",
+    "last_seen": "Sep 21 09:32:16",
     "user_targeted": "admin",
     "threat_intel": {
       "ip": "203.0.113.55",
@@ -16,6 +16,6 @@
     },
     "score": 60.0,
     "severity": "High",
-    "generated_at": "2026-09-21T01:06:07.532928Z"
+    "generated_at": "2026-09-21T01:16:24.214522Z"
   }
 ]
